@@ -1,25 +1,30 @@
- Hi, I'm Vincent 
+Hi, I'm Vincent 
 
- Aspiring AI Engineer |  Backend Developer
+Aspiring AI Engineer | ⚙️ Backend Developer
 
 I'm passionate about turning ideas into intelligent, real-world solutions. I build with Python, explore Machine Learning, develop APIs with FastAPI, and constantly sharpen my problem-solving skills.
 
-Currently Learning
+TECH STACK
 
-*  Python
-*  Machine Learning & AI
-*  FastAPI
-*  SQL & PostgreSQL
-*  Data Structures & Algorithms
-*  Git & GitHub
+Language Tools
 
- What I'm Building
+[![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode)](https://skillicons.dev)
 
-I'm focused on building practical projects that help me understand how software, backend systems, and AI work together.
+Backend Database
+
+[![My Skills](https://skillicons.dev/icons?i=fastapi,postgresql)](https://skillicons.dev)
+
+AI and Machine Learning
+
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn)](https://skillicons.dev)
+
+
+What I'm Building
+
+I'm focused on building practical projects that combine **software engineering, backend development, and artificial intelligence**.
 
 Goal
 
-Become an AI Engineer capable of building and deploying real-world AI systems.
+Become an **AI Engineer** capable of building and deploying real-world AI systems.
 
-Learn. Build. Break. Improve. Repeat!!!
-
+Learn. Build. Break. Improve. Repeat.!!!
