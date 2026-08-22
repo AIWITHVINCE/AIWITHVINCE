@@ -1,16 +1,25 @@
-## Hi there 👋
+ Hi, I'm Vincent 
 
-<!--
-**AIWITHVINCE/AIWITHVINCE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Aspiring AI Engineer |  Backend Developer
 
-Here are some ideas to get you started:
+I'm passionate about turning ideas into intelligent, real-world solutions. I build with Python, explore Machine Learning, develop APIs with FastAPI, and constantly sharpen my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Learning
+
+*  Python
+*  Machine Learning & AI
+*  FastAPI
+*  SQL & PostgreSQL
+*  Data Structures & Algorithms
+*  Git & GitHub
+
+ What I'm Building
+
+I'm focused on building practical projects that help me understand how software, backend systems, and AI work together.
+
+Goal
+
+Become an AI Engineer capable of building and deploying real-world AI systems.
+
+Learn. Build. Break. Improve. Repeat!!!
+
