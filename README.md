@@ -21,7 +21,7 @@ AI and Machine Learning
 
 What I'm Building
 
-I'm focused on building practical projects that combine **software engineering, backend development, and artificial intelligence.
+I'm focused on building practical projects that combine software engineering, backend development, and artificial intelligence.
 
 Goal
 
