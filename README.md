@@ -1,6 +1,6 @@
 Hi, I'm Vincent 
 
-Aspiring AI Engineer | ⚙️ Backend Developer
+Aspiring AI Engineer |  Backend Developer
 
 I'm passionate about turning ideas into intelligent, real-world solutions. I build with Python, explore Machine Learning, develop APIs with FastAPI, and constantly sharpen my problem-solving skills.
 
@@ -21,10 +21,10 @@ AI and Machine Learning
 
 What I'm Building
 
-I'm focused on building practical projects that combine **software engineering, backend development, and artificial intelligence**.
+I'm focused on building practical projects that combine **software engineering, backend development, and artificial intelligence.
 
 Goal
 
-Become an **AI Engineer** capable of building and deploying real-world AI systems.
+Become an "AI Engineer" capable of building and deploying real-world AI systems.
 
 Learn. Build. Break. Improve. Repeat.!!!
